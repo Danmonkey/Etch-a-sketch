@@ -1,17 +1,35 @@
-regions{
-    margin: 2px;
+li{
+    color: black;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
 }
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    border: 0px;
+}
+
+
 
 h1{
     text-align: center;
 }
 
+
 #container{
     text-align: center;
+    background-color: beige;
 }
 
-button{
+#btncont{
     text-align: center;
     align-self: center;
     align-content: center;
+}
+
+body{
+    background-color: beige;
 }
