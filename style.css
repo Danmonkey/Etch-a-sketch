@@ -1,0 +1,17 @@
+regions{
+    margin: 2px;
+}
+
+h1{
+    text-align: center;
+}
+
+#container{
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    align-self: center;
+    align-content: center;
+}
